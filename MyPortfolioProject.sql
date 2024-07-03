@@ -1,4 +1,4 @@
-﻿
+USE [MyPortfolioProject]﻿
 select *
 from MyPortfolioProject..[Covid Deaths]
 
